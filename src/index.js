@@ -48,6 +48,7 @@ class Square extends React.Component {
       return (
         <div className="game">
           <div className="game-board">
+            <p>Test Change!</p>
             <Board />
           </div>
           <div className="game-info">
